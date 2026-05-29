@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+nltk
+matplotlib
+seaborn
+streamlit
+datasets
+beautifulsoup4
+requests
