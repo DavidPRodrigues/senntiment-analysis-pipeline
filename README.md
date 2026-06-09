@@ -19,5 +19,13 @@ Companies receive far mroe reviews than anyone can read. This project classifies
 In progress
 
 ## Results
-_comming soon_
+Accuracy: 87.6%
+
+## Run
+
+python src/data_loading.py
+python src/data_cleaning.py
+python src/preprocessing.py
+python src/train_model.py
+python src/predict.py
 

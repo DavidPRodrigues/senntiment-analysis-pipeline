@@ -42,5 +42,6 @@ print('confusion matrix', confusion_matrix(y_test, y_pred))
 joblib.dump(model, 'models/logistic_regression_model.pkl')
 joblib.dump(vectorizer, 'models/tfidf_vectorizer.pkl')
 
+
 print("\nSaved model to models/logistic_regression_model.pkl")
 print("Saved vectorizer to models/tfidf_vectorizer.pkl")
